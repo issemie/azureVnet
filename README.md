@@ -1,0 +1,2 @@
+# azureVnet
+workshop Iaas
